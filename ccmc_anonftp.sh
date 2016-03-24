@@ -1,9 +1,8 @@
 #!/bin/bash
 # script expects two arguments: filename (can include full path to filename) and target foldername on the ftp site (method shortname)
-#examples:   
+# examples:   
 # bash anonftp.sh file.txt MO_AR1
 # bash anonftp.sh file.txt MO_TOT1
-#put $FILE
 
 
 HOST='hanna.ccmc.gsfc.nasa.gov'
